@@ -277,7 +277,7 @@ text-shadow:  1px 1px 0 white,
      }
     }
 
- @media only screen and (min-width: 1180px){
+ @media only screen and (max-width: 1180px){
      body{
          zoom: 67%;
      }
