@@ -271,14 +271,14 @@ text-shadow:  1px 1px 0 white,
     color: rgb(94, 105, 255);
  }
 
- @media only screen and (max-width: 1600px){
+ @media only screen and (max-width: 2000px){
      body{
          zoom: 125%;
      }
     }
 
 
- @media only screen and (max-width: 1200px){
+ @media only screen and (max-width: 1440px){
      body{
          zoom: 100%;
      }
