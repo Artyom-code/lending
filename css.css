@@ -270,3 +270,9 @@ text-shadow:  1px 1px 0 white,
     padding-top: 40px;
     color: rgb(94, 105, 255);
  }
+
+ @media only screen and (min-width: 1600px){
+     body{
+         zoom: 110%
+     }
+    }
