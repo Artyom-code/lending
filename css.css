@@ -273,7 +273,7 @@ text-shadow:  1px 1px 0 white,
  }
 
 
-@media screen and ( min-width:1600px) {
+@media( min-width:1600px) {
     body {
         zoom: 125%;
     }
